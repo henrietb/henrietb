@@ -6,9 +6,6 @@
 - 😄 I'm practicing tennis one day a week. 
 - ⚡ Some facts about me: I love traveling, painting, and watching sunsets.
 - You can find me on:
-  Instagram: @henriiba
-  Linkedin: henriette-bakke
-- Or reach me on:
-  E-mail: henrietb@uia.no
-  Phone: +4747330783
+- Instagram: @henriiba
+- Linkedin: henriette-bakke
 -->
