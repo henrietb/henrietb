@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**henrietb/henrietb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m from Østlandet, but currently living in Kristiansand. 
+- 🌱 I’m studying IT and Information Systems at the University in Agder.
+- 😄 I'm practicing tennis one day a week. 
+- ⚡ Some facts about me: I love traveling, painting, and watching sunsets.
+- You can find me on:
+-   Instagram: @henriiba
+-   Linkedin: henriette-bakke
+- Or reach me on:
+-   E-mail: henrietb@uia.no
+-   Phone: +4747330783
 -->
